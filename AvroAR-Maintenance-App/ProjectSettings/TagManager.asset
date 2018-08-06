@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Assembly1
+  - ContentContainer
+  - VideoPlayer
+  - Sub1
+  - Sub2
+  - Sub3
+  - Sub4
+  - Sub0
+  - Sub5
+  - Sub6
+  - Pivot_Base
+  - Pivot_Shoulder
+  - Pivot_Elbow
+  - Pivot_Wrist
+  - Pivot_Gripper
+  - Pivot_Pincer1
+  - Pivot_Pincer2
+  - Parts_BaseFixed
+  - Parts_Base
+  - Parts_Shoulder
+  - Parts_Elbow
+  - Parts_Wrist
+  - Parts_Gripper
+  - Parts_Pincer1
+  - Parts_Pincer2
+  - Assembly
+  - PanelMenu
+  - ToolMenu
+  - WorkOrderMenu
+  - ScanningText
+  - WorkTasks
+  - MenuInstruction_0
+  - MenuInstruction_1
+  - MenuInstruction_2
+  - MenuInstruction_3
+  - AssemblyInstruction_1
+  - AssemblyInstruction_2
+  - AssemblyInstruction_3
+  - ScrewPlate
+  - Tensioner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
